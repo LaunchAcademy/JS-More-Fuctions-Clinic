@@ -1,1 +1,1 @@
-# JS-More-Fuctions-Clinic
+# JS-More-Functions-Clinic
